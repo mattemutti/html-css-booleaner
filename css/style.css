@@ -57,6 +57,10 @@ h1{
     background-color: rgb(189, 228, 245);
 }
 
+.widthtab{
+    width: 400px;
+}
+
 footer{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
