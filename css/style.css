@@ -21,7 +21,7 @@ h1{
 }
 
 
-#yellow{
+.yellow{
     background-color: yellow;
 }
 
@@ -34,4 +34,8 @@ h1{
 
 .tabblue{
     background-color: rgb(189, 228, 245);
+}
+
+#titolocoda{
+    color: rgb(118, 115, 115);
 }
