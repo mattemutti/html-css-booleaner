@@ -1,4 +1,3 @@
-
 #header {
     background-color: rgb(73, 161, 237);
     background-image: url(../img/pattern.png);
@@ -8,7 +7,6 @@
 
 #image-header{
     width: 400px;
-    position:relative;
 }
 
 h1{
@@ -28,6 +26,10 @@ h1{
     
 }
 
+.pxphoto{
+    height: 400px;
+}
+
 .namephoto{
     font-size: 12px;
 }
@@ -45,10 +47,31 @@ h1{
     background-color: rgb(47, 189, 232);
     color: white;
     font position: 
-    
+}
+
+.padding{
+    padding-inline-start: 11px;
 }
 
 .tabblue{
     background-color: rgb(189, 228, 245);
 }
 
+footer{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+
+.loremfinal{
+    color: white;
+    font-size: 30px;
+}
+
+
+#img2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    
+}
