@@ -11,6 +11,9 @@
     position:relative;
 }
 
+h1{
+    font-size: 40px;
+}
 
 
 #blue{
@@ -23,9 +26,12 @@
 }
 
 #theadtab{
-    background-color: rgb(103, 103, 239);
+    background-color: rgb(47, 189, 232);
+    color: white;
+    font position: 
+    
 }
 
-td{
-
+.tabblue{
+    background-color: rgb(189, 228, 245);
 }
