@@ -1,6 +1,6 @@
 
 #header {
-    background-color: rgba(115, 115, 255, 0.713);
+    background-color: rgb(73, 161, 237);
     background-image: url(../img/pattern.png);
     background-size: 400px;
     
@@ -12,14 +12,33 @@
 }
 
 h1{
-    font-size: 40px;
+    font-size: 50px;
+    margin-bottom: 0;
 }
 
+.grey{
+    color: rgb(118, 115, 115);
+    margin: auto;
+}
+#grey1{
+    color: rgb(118, 115, 115);
+    font-size: 13px;
+    margin top: 0px;
+    margin bottom: 50px;
+    
+}
+
+.namephoto{
+    font-size: 12px;
+}
 
 #blue{
-    color: blue;
+    color: rgb(0, 115, 255);
 }
 
+.margini{
+    
+}
 
 .yellow{
     background-color: yellow;
@@ -36,6 +55,3 @@ h1{
     background-color: rgb(189, 228, 245);
 }
 
-#titolocoda{
-    color: rgb(118, 115, 115);
-}
